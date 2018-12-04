@@ -2,7 +2,7 @@
 
 # Met Office on AWS Earth
 
-Some of the most important [Met Office](https://www.metoffice.gov.uk/about-us)'s weather datasets are now freely available on [Amazon Web Services](https://aws.amazon.com), as part of collaboration on the [Earth on AWS](https://aws.amazon.com/earth/) initiative.
+Some of the most important weather datasets produced by the [Met Office](https://www.metoffice.gov.uk/about-us) are now available for free on [Amazon Web Services](https://aws.amazon.com), as part of the [Earth on AWS](https://aws.amazon.com/earth/) initiative.
 
 This repo contains example code of how to access these datasets. We also give you instructions on how to request support or contribute.
 
