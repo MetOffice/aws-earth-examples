@@ -8,7 +8,12 @@ This repo contains example code of how to access these datasets. We also give yo
 
 ### Getting Started
 
-TODO
+ - Data is available on AWS in [S3 buckets](https://aws.amazon.com/s3/).
+ - Each forecast simulation is comprised of many files stored in [NetCDF](https://www.unidata.ucar.edu/software/netcdf/).
+ - You can subscribe to [SNS topics](https://aws.amazon.com/sns/) to be notified when new data is made available.
+ - You can find a list of buckets and topics on the [AWS Open Data Registry](https://registry.opendata.aws/uk-met-office/).
+
+We have made [some examples available](https://github.com/MetOffice/aws-earth-examples/tree/master/examples) in the form of [Jupyter Notebooks](https://jupyter.org/).
 
 ### Getting Support
 
