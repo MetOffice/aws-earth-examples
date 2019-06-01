@@ -5,16 +5,29 @@ channels:
 dependencies:
   - python=3.6
 
+  - bokeh
   - boto3
   - dask
   - dask-kubernetes
   - distributed
+  - datashader
+  - geoviews
+  - holoviews
+  - hvplot
   - ipywidgets
   - ipyleaflet
   - iris
   - jupyterlab
-  - numpy
   - matplotlib
   - mo_aws_earth
+  - nbserverproxy
+  - numpy
   - pandas
   - scipy
+  - xarray
+
+  - pip
+  - pip:
+    - graphviz
+    - dask_labextension==0.3.3
+    - git+https://github.com/xgcm/xgcm.git
