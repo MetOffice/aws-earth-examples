@@ -2,6 +2,8 @@
 
 # Met Office on AWS Earth
 
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/MetOffice/aws-earth-examples.git/master)
+
 Some of the most important weather datasets produced by the [Met Office](https://www.metoffice.gov.uk/about-us) are now available for free on [Amazon Web Services](https://aws.amazon.com), as part of the [Earth on AWS](https://aws.amazon.com/earth/) initiative.
 
 This repo contains example code of how to access these datasets. We also give you instructions on how to request support or contribute.
