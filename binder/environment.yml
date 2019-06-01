@@ -9,5 +9,12 @@ dependencies:
   - dask
   - dask-kubernetes
   - distributed
+  - ipywidgets
+  - ipyleaflet
   - iris
+  - jupyterlab
+  - numpy
+  - matplotlib
   - mo_aws_earth
+  - pandas
+  - scipy
