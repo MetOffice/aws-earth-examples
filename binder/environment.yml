@@ -1,0 +1,13 @@
+name: awsearth
+channels:
+  - conda-forge
+  - informaticslab
+dependencies:
+  - python=3.6
+
+  - boto3
+  - dask
+  - dask-kubernetes
+  - distributed
+  - iris
+  - mo_aws_earth
